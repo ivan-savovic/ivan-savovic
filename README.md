@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Savović
 
-### 🧪QA Engineer | Manual & Automation Testing
+### 🧪 QA Engineer | Manual & Automation Testing
 
 ---
 
