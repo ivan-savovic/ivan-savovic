@@ -52,7 +52,6 @@ I am a passionate and detail-oriented **QA Engineer** with **8+ years** of profe
 - 🔗 LinkedIn: [linkedin.com/in/ivansavovic](https://linkedin.com/in/ivansavovic)  
 - 🐙 GitHub: [github.com/ivan-savovic](https://github.com/ivan-savovic)  
 - 🐦 X (Twitter): [@IvanSavovic_](https://x.com/IvanSavovic_)  
-- 📞 Phone: +47 984 84 061  
 
 ---
 
